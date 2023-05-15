@@ -51,14 +51,14 @@ export default {
     return {
       fit: "contain",
       images: [
-            "https://gitee.com/CHCCCCCC/520/blob/main/src/assets/images/20221101231256.jpg",
-            "https://gitee.com/CHCCCCCC/520/blob/main/src/assets/images/20221101231306.jpg",
-            "https://gitee.com/CHCCCCCC/520/blob/main/src/assets/images/20221101231312.jpg",
-            "https://gitee.com/CHCCCCCC/520/blob/main/src/assets/images/20221101231317.jpg",
-            "https://gitee.com/CHCCCCCC/520/blob/main/src/assets/images/20221101231323.jpg",
-            "https://gitee.com/CHCCCCCC/520/blob/main/src/assets/images/20221101231329.jpg",
-            "https://gitee.com/CHCCCCCC/520/blob/main/src/assets/images/20221101231335.jpg",
-            "https://gitee.com/CHCCCCCC/520/blob/main/src/assets/images/20221101231342.jpg",
+            require("@/assets/images/20221101231256.jpg"),
+            require("@/assets/images/20221101231306.jpg"),
+            require("@/assets/images/20221101231312.jpg"),
+            require("@/assets/images/20221101231317.jpg"),
+            require("@/assets/images/20221101231323.jpg"),
+            require("@/assets/images/20221101231329.jpg"),
+            require("@/assets/images/20221101231335.jpg"),
+            require("@/assets/images/20221101231342.jpg"),
           ],
       result: null,
       open: true

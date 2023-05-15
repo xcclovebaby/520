@@ -26,7 +26,7 @@ export default {
     return {
       elevation: store.elevation,
       musicStatus: true,
-      audio: 'https://gitee.com/CHCCCCCC/520/blob/main/src/assets/520.mp3'
+      audio: require('@/assets/520.mp3')
     }
   },
   created() {
