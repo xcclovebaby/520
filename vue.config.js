@@ -5,7 +5,7 @@ function resolve(dir) {
   return path.join(__dirname, dir)
 }
 
-const name = '致 Souler 一封信'
+const name = '致 孔冬晗 一封信'
 
 const port = process.env.port || process.env.npm_config_port || 4489
 
